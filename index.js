@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import Stacknavigator from './App';
 
-AppRegistry.registerComponent('demonavigator', () => App);
+AppRegistry.registerComponent('demonavigator', () => Stacknavigator);
